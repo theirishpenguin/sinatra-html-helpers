@@ -1,0 +1,3 @@
+Currently only contains a HTML helper for generating HTML select elements.
+
+This is not a proper extension or anything, just require the file. I'll try to write a proper extension sometime.
